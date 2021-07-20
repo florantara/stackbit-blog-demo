@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Test post
 date: '2021-07-20'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
